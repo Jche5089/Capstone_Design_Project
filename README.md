@@ -11,6 +11,7 @@
 ## 아두이노 관련 작동영상
 ![아두이노 작동 영상-2](https://github.com/Jche5089/Capstone_Design_Project/assets/74548789/56f78511-8f44-4fcf-85b7-02129bd413a6)
 
+
 ## App 작동영상
 ![앱 작동영상-2](https://github.com/Jche5089/Capstone_Design_Project/assets/74548789/2699983c-3a2f-4502-99f8-4194b16dae2d)
 
